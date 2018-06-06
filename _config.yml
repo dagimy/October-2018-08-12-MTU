@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "dc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: " Data Carpentry Workshop Mizan-Tepi University"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: yared3778@gmail.com or yared_it@mtu.edu.et
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
