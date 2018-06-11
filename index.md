@@ -6,11 +6,11 @@ address: "Mizan-Teferi, Ethiopia"      # full street address of workshop (e.g., 
 country: "et"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "6.993647, 35.582199"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "August-06-2018-"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "August-26-31-2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:00 AM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: August-06-2018      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: August-10-2018        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Mesfin Diro","Dr.kari L. Jordan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: August-26-2018      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: August-31-2018        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Mesfin Diro","Dr.Kari L. Jordan","Dr.Margareth"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Yared Abera Ergu"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: [mesfin@aau.edu.et","yared3778@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.software-carpentry.org/2018-06-06-MTU # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -46,9 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
+<h4>This is the workshop to be held in Mizan-tepi University-Mizan-Teferi Campus. To let us know about your workshop
 and our administrator may contact you if we need any extra information.</h4>
 
 <h2 id="general">General Information</h2>
