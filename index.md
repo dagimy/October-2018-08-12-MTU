@@ -6,7 +6,7 @@ address: "Mizan-Teferi, Ethiopia"      # full street address of workshop (e.g., 
 country: "et"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "6.993647, 35.582199"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/) 
-humandate: "AOctober-08-12-2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "October-08-12-2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:00 AM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: October-08-12-2018      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: August-31-2018        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
